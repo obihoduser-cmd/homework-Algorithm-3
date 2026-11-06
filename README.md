@@ -11,8 +11,10 @@
 4. Реализовать итераторы для поддержки range-based for и STLсовместимости
 5. Провести амортизированный анализ операции push_back
 
-<img width="546" height="63" alt="image" src="https://github.com/user-attachments/assets/e24b70ea-bab4-44f4-b41d-82f4501aaaff" />
-<img width="445" height="173" alt="image" src="https://github.com/user-attachments/assets/eeb66ff2-37dc-44d5-a5aa-89f5a24f6668" />
+<img width="546" height="63" alt="image" src="https://github.com/user-attachments/assets/62b4153b-f651-4b0b-a2de-3d92961e14c6" />
+<img width="504" height="40" alt="image" src="https://github.com/user-attachments/assets/9e1ceedf-39e2-4339-8835-483bf3af62f1" />
+
+
 Рисунки 1, 2 - Условие задания
 
 ```
@@ -194,7 +196,8 @@ int main() {
 }
 ```
 
-![Uploading image.png…]()
+<img width="445" height="173" alt="image" src="https://github.com/user-attachments/assets/5fa696ad-d2e1-473c-9ec3-8487e67f9a43" />
+
 Рисунок 3 - Вывод кода
 
 Контрольные вопросы:
